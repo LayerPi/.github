@@ -1,5 +1,6 @@
 # PVM: Pi Network's First Layer 2 Scaling Solution 🚀
-![2](https://github.com/user-attachments/assets/6316ffeb-8d54-42ec-aa80-6ad17071f6a4)
+
+![logo-emp](https://github.com/user-attachments/assets/6562ab82-5336-4f2c-844a-6c47dc54bd9d)
 
 Welcome to PVM, the cutting-edge **Layer 2** scaling solution designed to bring **EVM compatibility** to the Pi Network, unlocking seamless smart contract deployment, and a new era of **Proof-of-Work (PoW)** mining. Built to leverage the existing Pi ecosystem, PVM is the first project to introduce **PoW-based free token mining** to the Pi Network, setting the stage for decentralized applications (dApps) and smart contract execution. 
 
